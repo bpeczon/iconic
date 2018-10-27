@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="417.5" height="454.43" viewBox="0 0 417.5 454.43">
+  <defs>
+    <style>
+      .a {
+        fill: #75c5c9;
+      }
+
+      .b {
+        fill: #89e5e5;
+      }
+
+      .c {
+        fill: #eae249;
+      }
+
+      .d {
+        fill: #c1b73e;
+      }
+
+      .e {
+        fill: #63a8a8;
+      }
+    </style>
+  </defs>
+  <title>star</title>
+  <g>
+    <g>
+      <polygon class="a" points="208.01 186.57 140.7 454.43 275.31 454.43 208.01 186.57"/>
+      <path class="b" d="M338.46,235.14q.12,113.89.23,227.79L405.76,503Z" transform="translate(-130.45 -48.57)"/>
+      <path class="c" d="M242.54,48.57l96,187.16q.44-55.86.86-111.73Z" transform="translate(-130.45 -48.57)"/>
+      <path class="c" d="M280.7,215.61" transform="translate(-130.45 -48.57)"/>
+      <path class="d" d="M242.54,48.57,338.6,235.72l-91.27-64.45Q244.93,109.92,242.54,48.57Z" transform="translate(-130.45 -48.57)"/>
+      <path class="c" d="M437.12,49.72l-98.2,186q46-31.69,92-63.4Q434,111,437.12,49.72Z" transform="translate(-130.45 -48.57)"/>
+      <path class="c" d="M322.19,176.81" transform="translate(-130.45 -48.57)"/>
+      <path class="d" d="M437.12,49.72l-98.19,186q.22-55.86.43-111.73Z" transform="translate(-130.45 -48.57)"/>
+      <path class="c" d="M548,210.71l-208.9,24.72,104.41,39.78Z" transform="translate(-130.45 -48.57)"/>
+      <path class="c" d="M378.09,188.21" transform="translate(-130.45 -48.57)"/>
+      <path class="d" d="M548,210.71l-208.9,24.74,92.24-63.06Z" transform="translate(-130.45 -48.57)"/>
+      <path class="c" d="M477.51,393,338.68,235q13.23,54.28,26.45,108.56Z" transform="translate(-130.45 -48.57)"/>
+      <path class="c" d="M399.72,240.34" transform="translate(-130.45 -48.57)"/>
+      <path class="d" d="M477.51,393,338.66,235l104.25,40.22Q460.22,334.1,477.51,393Z" transform="translate(-130.45 -48.57)"/>
+      <path class="c" d="M130.45,208.79,339.18,235l-91.8-63.68Z" transform="translate(-130.45 -48.57)"/>
+      <path class="c" d="M290,271.42" transform="translate(-130.45 -48.57)"/>
+      <path class="d" d="M130.45,208.79l208.74,26.14L234.5,274Q182.48,241.39,130.45,208.79Z" transform="translate(-130.45 -48.57)"/>
+      <path class="c" d="M200.14,392.16l138.4-158.43L234.41,274.24Q217.28,333.21,200.14,392.16Z" transform="translate(-130.45 -48.57)"/>
+      <path class="c" d="M341.25,294.94" transform="translate(-130.45 -48.57)"/>
+      <path class="d" d="M200.14,392.16,338.52,233.71Q325.46,288,312.38,342.35Z" transform="translate(-130.45 -48.57)"/>
+    </g>
+    <polygon class="e" points="208.01 414.37 140.7 454.43 275.31 454.43 208.01 414.37"/>
+  </g>
+</svg>

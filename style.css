@@ -7,4 +7,56 @@
 	display: grid;
 		grid-template-columns: 1fr 1fr 1fr;
 		grid-gap:1rem;
+
+}
+
+<!------AnimatedIcons-------->
+.container{
+	margin:0 auto;
+	max-width:360px;
+}
+.snowflakes .snowflake-animated{
+	display:none;
+}
+.snowflakes:hover .snowflake{
+	display:none;
+}
+.snowflakes:hover .snowflake-animated{
+	display:block;
+}
+.nose .rudolf-animated{
+	display:none;
+}
+.nose:hover .rudolf{
+	display:none;
+}
+.nose:hover .rudolf-animated{
+	display:block;
+}
+.candy .candycane-animated{
+	display:none;
+}
+.candy:hover .candycane{
+	display:none;
+}
+.candy:hover .candycane-animated{
+	display:block;
+}
+.ears .elf-animated{
+	display:none;
+}
+.ears:hover .elf{
+	display:none;
+}
+.ears:hover .elf-animated{
+	display:block;
+}
+.steam .mug-animated{
+	display:none;
+}
+.steam:hover .mug{
+	display:none;
+}
+.steam:hover .mug-animated{
+	display:block;
 }
