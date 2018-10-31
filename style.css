@@ -60,3 +60,12 @@
 .steam:hover .mug-animated{
 	display:block;
 }
+.smoke .train-animated{
+	display:none;
+}
+.smoke:hover .train{
+	display:none;
+}
+.smoke:hover .train-animated{
+	display:block;
+}
