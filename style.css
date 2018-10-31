@@ -69,3 +69,21 @@
 .smoke:hover .train-animated{
 	display:block;
 }
+.bell .bells-animated{
+	display:none;
+}
+.bell:hover .bells{
+	display:none;
+}
+.bell:hover .bells-animated{
+	display:block;
+}
+.glove .mittens-animated{
+	display:none;
+}
+.glove:hover .mittens{
+	display:none;
+}
+.glove:hover .mittens-animated{
+	display:block;
+}
